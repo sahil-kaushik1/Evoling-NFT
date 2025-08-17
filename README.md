@@ -43,6 +43,10 @@ Key files:
 - Dynamic NFT: `ST2KMS23R64H7QB9QRX20SZNCHAAA9GVDQF430P8.dynamic-nft`
 - Rare Token (pre-existing): `ST2KMS23R64H7QB9QRX20SZNCHAAA9GVDQF430P8.rare-token`
 
+- <img width="1919" height="986" alt="Screenshot From 2025-08-17 15-24-23" src="https://github.com/user-attachments/assets/6e137ab2-7eb7-4501-b3ed-a870bb0cdc4c" />
+
+<img width="1919" height="986" alt="Screenshot From 2025-08-17 15-25-25" src="https://github.com/user-attachments/assets/c8cffaf7-6bbf-4524-a144-c71973049385" />
+
 View on Hiro Explorer (Testnet):
 - Deployer: https://explorer.hiro.so/address/ST2KMS23R64H7QB9QRX20SZNCHAAA9GVDQF430P8?chain=testnet
 - dynamic-nft: https://explorer.hiro.so/contract/ST2KMS23R64H7QB9QRX20SZNCHAAA9GVDQF430P8.dynamic-nft?chain=testnet
